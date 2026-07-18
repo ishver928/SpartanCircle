@@ -27,7 +27,7 @@ The platform then uses compatibility-based matching to recommend students with s
 - 🚧 Peer compatibility matching system
 
 ### Future Features
-- AI-powered student recommendations
+- Student recommendations system
 - Messaging between matched students
 - Study group creation
 - Campus event discovery
@@ -51,3 +51,34 @@ The platform then uses compatibility-based matching to recommend students with s
 Spartan Circle was created to help students build meaningful connections and make the transition into college easier by using technology to bring together students with shared interests and goals.
 
 ## 📂 Project Structure
+SpartanCircle/
+├── public/
+├── src/
+├── package.json
+└── vite.config.js
+
+
+## 🚀 Getting Started (HOW YOU CAN RUN IT)!!
+
+Clone the repository:
+Navigate into the project 
+```bash
+git clone https://github.com/ishver928/SpartanCircle.git
+````
+
+Navigate into the project:
+```bash
+cd SpartanCircle
+```
+
+Install Dependencies:
+```bash
+npm install
+```
+
+Start the development server:
+```bash
+npm run dev
+```
+
+Will include screenshots and a simple link to view the project soon! :) 
