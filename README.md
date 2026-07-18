@@ -1,16 +1,53 @@
-# React + Vite
+# Spartan Circle 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A student networking platform designed to help SJSU students find their community by connecting with peers who share similar majors, interests, schedules, and academic goals.
 
-Currently, two official plugins are available:
+## 📌 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Starting college can feel overwhelming. Many students struggle to find friends, study partners, and communities that align with their goals.
 
-## React Compiler
+Spartan Circle aims to make this process easier by helping students discover compatible peers before and during their college journey.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Students create a profile containing information such as:
+- Major
+- Academic interests
+- Career goals
+- Clubs and hobbies
+- Schedule availability
 
-## Expanding the ESLint configuration
+The platform then uses compatibility-based matching to recommend students with similar experiences and goals.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+### Current Progress
+- ✅ React + Vite project setup
+- 🚧 Landing page UI
+- 🚧 Student onboarding flow
+- 🚧 Student profile creation
+- 🚧 Peer compatibility matching system
+
+### Future Features
+- AI-powered student recommendations
+- Messaging between matched students
+- Study group creation
+- Campus event discovery
+- Club and organization recommendations
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- JavaScript
+- Vite
+- CSS
+
+### Future Development
+- Machine Learning recommendation model
+- Backend database
+- Authentication system
+
+## 🎯 Project Goals
+
+Spartan Circle was created to help students build meaningful connections and make the transition into college easier by using technology to bring together students with shared interests and goals.
+
+## 📂 Project Structure
