@@ -224,8 +224,8 @@ function Interests({ setPage }) {
       <button
         type="button"
         className="interests-next-button"
-        onClick={() => setPage("next")}
-        aria-label="Continue to the next page"
+        onClick={() => setPage("skills")}
+        aria-label="Continue to skills"
       />
     </div>
   );

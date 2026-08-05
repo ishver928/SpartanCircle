@@ -5489,11 +5489,14 @@ const sjsuCourses = [
 ];
 
 
-function Academics({ setPage }) {
-  const [major, setMajor] = useState("");
-  const [plannedMajor, setPlannedMajor] = useState("");
-  const [classSearch, setClassSearch] = useState("");
-  const [selectedClasses, setSelectedClasses] = useState([]);
+function Academics({
+  setPage,
+  selectedClasses,
+  setSelectedClasses,
+  }) {
+    const [major, setMajor] = useState("");
+    const [plannedMajor, setPlannedMajor] = useState("");
+    const [classSearch, setClassSearch] = useState("");
 
   function addClass(course) {
     const alreadySelected = selectedClasses.some(
