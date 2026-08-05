@@ -21,9 +21,9 @@ The platform then uses compatibility-based matching to recommend students with s
 
 ### Current Progress
 - ✅ React + Vite project setup
-- 🚧 Landing page UI
-- 🚧 Student onboarding flow
-- 🚧 Student profile creation
+- ✅ Landing page UI
+- ✅ Student onboarding flow
+- ✅ Student profile creation
 - 🚧 Peer compatibility matching system
 
 ### Future Features
